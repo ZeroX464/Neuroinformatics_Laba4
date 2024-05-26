@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Image.py" />
+    <Compile Include="ImageWithPaint.py" />
+    <Compile Include="RecognizeImages.py" />
     <Compile Include="SeeImages.py" />
     <Compile Include="Test.py" />
     <Compile Include="Train.py" />
